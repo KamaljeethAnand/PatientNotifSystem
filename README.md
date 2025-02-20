@@ -146,7 +146,7 @@ A real-time patient monitoring system that tracks blood pressure (BP) readings f
 
 ---
 
-## **Potential Enhancements(NOT PART OF THIS PROJECT)**
+## **Potential Enhancements(NOT PART OF THIS PROJECT SCOPE CURRENTLY)**
 
 - **Graphical Data Visualization**: Add BP trends over time using charts.
 - **User Authentication**: Secure dashboard with login for healthcare professionals.
