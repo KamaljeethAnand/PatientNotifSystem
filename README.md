@@ -162,5 +162,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to adjust the links, repository name, or personal details based on your GitHub setup!
 
